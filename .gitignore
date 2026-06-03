@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.zip
+*.pth
+*.bin
+data/images/
+paper/figures/
+data/results/
+data/prestamped_records.json
